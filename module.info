@@ -1,0 +1,9 @@
+name = "Write EXIF"
+description = "Writes description and title into file EXIF when an edit is made."
+version = 3
+author_name	= "Matthew Miller"
+discuss_url	= "http://gallery.menalto.com/node/106203"
+info_url	= "https://github.com/mattdm/gallery3-writeexif"
+author_url	= "http://mattdm.org/"
+
+
